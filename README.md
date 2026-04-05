@@ -107,7 +107,7 @@ This work highlights the importance of:
 ## Author
 
 Jonathan Wisdom  
-Final Year Medical Student  
+Medical Student  
 Niger Delta University, Nigeria  
 
 ---
