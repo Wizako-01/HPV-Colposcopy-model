@@ -19,6 +19,10 @@ This study evaluates whether integrating multi-view colposcopic images (pre- and
 
 ## Dataset
 
+The dataset used in this study is publicly available:
+
+🔗 https://data.mendeley.com/datasets/j5mhfhxrwj/1
+
 - Total patients: 332  
 - Total images: 3,356  
 - Classification: Normal vs Abnormal  
@@ -27,9 +31,9 @@ Image types:
 - Pre-acetic images (`p*.jpg`)  
 - Post-acetic images (`po*.jpg`)  
 
-The dataset is organized at the patient level to prevent data leakage.
+The dataset is organized at the patient level, with multiple images per patient, supporting patient-level evaluation and reducing the risk of data leakage.
 
----
+This dataset reflects real-world clinical variability in colposcopy imaging, including differences in magnification, field of view, and acquisition conditions.
 
 ## Methodology
 
